@@ -29,26 +29,26 @@
       <groupId>org.jbpm</groupId>
       <artifactId>jbpm-flow</artifactId>
       <version>${version.org.kie}</version>
-      <scope>provided</scope>
+      <!--scope>provided</scope-->
     </dependency>
     <dependency>
       <groupId>org.jbpm</groupId>
       <artifactId>jbpm-services-api</artifactId>
       <version>${version.org.kie}</version>
-      <scope>provided</scope>
+      <!--scope>provided</scope-->
     </dependency>
 
     <dependency>
       <groupId>org.kie</groupId>
       <artifactId>kie-api</artifactId>
       <version>${version.org.kie}</version>
-      <scope>provided</scope>
+      <!--scope>provided</scope-->
     </dependency>
     <dependency>
       <groupId>org.kie</groupId>
       <artifactId>kie-internal</artifactId>
       <version>${version.org.kie}</version>
-      <scope>provided</scope>
+      <!--scope>provided</scope-->
     </dependency>
     <dependency>
       <groupId>org.optaplanner</groupId>
@@ -60,7 +60,7 @@
       <groupId>org.optaplanner</groupId>
       <artifactId>optaplanner-persistence-jaxb</artifactId>
       <version>${version.org.kie}</version>
-      <scope>provided</scope>
+      <!--scope>provided</scope-->
     </dependency>
     <dependency>
       <groupId>junit</groupId>
